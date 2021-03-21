@@ -1,2 +1,2 @@
 all:
-	gcc -O3 *.c -lgmp
+	gcc *.c -lgmp && ./a.out
